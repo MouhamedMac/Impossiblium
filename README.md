@@ -1,2 +1,1 @@
 # Impossiblium
-future website
